@@ -20,6 +20,10 @@ namespace Polymorephism1
         {
             Console.WriteLine(s1 + "\t" + s2);
         }
+        public void abb(int x,int y)
+        {
+          Console.WriteLine(x+y);
+        }
     }
     class ADD2:ADD1
     {
